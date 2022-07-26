@@ -1,0 +1,7 @@
+{
+  "hosting": {
+    "target": "alexseguin",
+    "public": "public",
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+  }
+}

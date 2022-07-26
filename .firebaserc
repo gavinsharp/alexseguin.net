@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "webhosting-309703"
+  },
+  "targets": {
+    "webhosting-309703": {
+      "hosting": {
+        "alexseguin": [
+          "alexseguin"
+        ]
+      }
+    }
+  }
+}
